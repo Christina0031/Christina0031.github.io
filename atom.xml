@@ -6,7 +6,7 @@
   <link href="https://christina0031.github.io/atom.xml" rel="self"/>
   
   <link href="https://christina0031.github.io/"/>
-  <updated>2021-09-09T00:49:34.544Z</updated>
+  <updated>2021-09-22T09:11:12.730Z</updated>
   <id>https://christina0031.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://christina0031.github.io/2021/09/hello-world/"/>
     <id>https://christina0031.github.io/2021/09/hello-world/</id>
     <published>2021-09-08T04:34:17.947Z</published>
-    <updated>2021-09-09T00:49:34.544Z</updated>
+    <updated>2021-09-22T09:11:12.730Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Welcome-to-my-blog"><a href="#Welcome-to-my-blog" class="headerlink" title="Welcome to my blog!"></a>Welcome to my blog!</h2><p>This is my first post. </p><h2 id="Hexo-Quick-Start"><a href="#Hexo-Quick-Start" class="headerlink" title="Hexo Quick Start"></a>Hexo Quick Start</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br><span class="line">$ hexo clean</span><br><span class="line">$ hexo generate</span><br><span class="line">$ hexo server</span><br><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<h2 id="Welcome-to-my-blog"><a href="#Welcome-to-my-blog" class="headerlink" title="Welcome to my blog!"></a>Welcome to my blog!</h2><p>This is my first post. </p><h2 id="Hexo-Quick-Start"><a href="#Hexo-Quick-Start" class="headerlink" title="Hexo Quick Start"></a>Hexo Quick Start</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br><span class="line">$ hexo clean</span><br><span class="line">$ hexo generate</span><br><span class="line">$ hexo server</span><br><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>WSL指南: <a href="https://dowww.spencerwoo.com/">https://dowww.spencerwoo.com/</a></p>]]></content>
     
     
     <summary type="html">Hello, this is my first post.</summary>
